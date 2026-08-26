@@ -1,0 +1,7 @@
+| Feature              | Instance Method | Class Method   | Static Method        |
+| -------------------- | --------------- | -------------- | -------------------- |
+| First parameter      | `self`          | `cls`          | None                 |
+| Works with           | Object          | Class          | Neither specifically |
+| Access instance data | ✅              | ❌             | ❌                    |
+| Access class data    | ✅              | ✅             | ❌ directly           |
+| Decorator            | None            | `@classmethod` | `@staticmethod`      |
