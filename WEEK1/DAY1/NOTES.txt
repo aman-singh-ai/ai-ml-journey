@@ -8,3 +8,8 @@ ________________________________________________________________________________
 | Access class data    | ✅              | ✅             | ❌ directly         |
 | Decorator            | None            | `@classmethod` | `@staticmethod`      |
 -----------------------------------------------------------------------------------
+
+Memory Trick 🧠
+INSTANCE → self → Object
+CLASS    → cls  → Class
+STATIC   → nothing → Utility
