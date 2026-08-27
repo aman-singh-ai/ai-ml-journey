@@ -1,4 +1,4 @@
-📊 Difference — Very Important
+📊 Difference b/w instance,class and static method — Very Important ---------------------->
 ________________________________________________________________________________
 | Feature              | Instance Method | Class Method   | Static Method        |
 | -------------------- | --------------- | -------------- | -------------------- |
@@ -9,7 +9,9 @@ ________________________________________________________________________________
 | Decorator            | None            | `@classmethod` | `@staticmethod`      |
 -----------------------------------------------------------------------------------
 
-Memory Trick 🧠
+
+
+-------------- 🧠 MEMORY TRICK-----------------------> 
 INSTANCE → self → Object
 CLASS    → cls  → Class
 STATIC   → nothing → Utility
