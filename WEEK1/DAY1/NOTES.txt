@@ -7,7 +7,7 @@ self        → Current object
 Instance    → Individual data
 Class       → Shared data
 
-📊 Difference b/w instance,class and static method — Very Important ---------------------->
+<-----------------📊 Difference b/w instance,class and static method — Very Important ------------>
 __________________________________________________________________________________
 | Feature              | Instance Method | Class Method   | Static Method        |
 | -------------------- | --------------- | -------------- | -------------------- |
@@ -17,7 +17,6 @@ ________________________________________________________________________________
 | Access class data    | ✅              | ✅             | ❌ directly         |
 | Decorator            | None            | `@classmethod` | `@staticmethod`       |
 -----------------------------------------------------------------------------------
-
 
 
 <-------------- 🧠 MEMORY TRICK------> 
