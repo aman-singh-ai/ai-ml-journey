@@ -1,5 +1,3 @@
-<--------------DEATILED NOTES: https://topperworld.in/oops-concepts-in-python/#pdf-oops-concept-in-python/6/ ----->
-
 
 <--------------------- One-line memory trick-------------->
 Class       → Blueprint
