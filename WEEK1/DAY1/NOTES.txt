@@ -1,11 +1,12 @@
 
-<--------------------------------------------- one-line memory trick----------------------------------------------------------------------------------------------------->
+<--------------------- one-line memory trick-------------->
 Class       → Blueprint
 Object      → Instance of blueprint
 Constructor → Initializes object
 self        → Current object
 Instance    → Individual data
 Class       → Shared data
+
 
 <-----------------📊 Difference b/w instance,class and static method — Very Important ------------>
 __________________________________________________________________________________
