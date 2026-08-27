@@ -1,3 +1,12 @@
+
+<--------------------------------------------- one-line memory trick----------------------------------------------------------------------------------------------------->
+Class       → Blueprint
+Object      → Instance of blueprint
+Constructor → Initializes object
+self        → Current object
+Instance    → Individual data
+Class       → Shared data
+
 📊 Difference b/w instance,class and static method — Very Important ---------------------->
 __________________________________________________________________________________
 | Feature              | Instance Method | Class Method   | Static Method        |
@@ -11,7 +20,7 @@ ________________________________________________________________________________
 
 
 
--------------- 🧠 MEMORY TRICK-----------------------> 
+<-------------- 🧠 MEMORY TRICK---------> 
 INSTANCE → self → Object
 CLASS    → cls  → Class
 STATIC   → nothing → Utility
