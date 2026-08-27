@@ -1,12 +1,12 @@
 📊 Difference b/w instance,class and static method — Very Important ---------------------->
-________________________________________________________________________________
+__________________________________________________________________________________
 | Feature              | Instance Method | Class Method   | Static Method        |
 | -------------------- | --------------- | -------------- | -------------------- |
 | First parameter      | `self`          | `cls`          | None                 |
 | Works with           | Object          | Class          | Neither specifically |
 | Access instance data | ✅              | ❌             | ❌                  |
 | Access class data    | ✅              | ✅             | ❌ directly         |
-| Decorator            | None            | `@classmethod` | `@staticmethod`      |
+| Decorator            | None            | `@classmethod` | `@staticmethod`       |
 -----------------------------------------------------------------------------------
 
 
