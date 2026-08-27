@@ -1,5 +1,5 @@
 
-<--------------------- 🧠one-line memory trick-------------->
+<--------------------- One-line memory trick-------------->
 Class       → Blueprint
 Object      → Instance of blueprint
 Constructor → Initializes object
