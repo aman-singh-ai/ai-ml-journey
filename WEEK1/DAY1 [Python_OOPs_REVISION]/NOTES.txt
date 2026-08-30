@@ -27,13 +27,13 @@ STATIC   → nothing → Utility
 
 
 <---------------------🔹🔹Inheritance ; [Parent & Child class]🔹🔹------------------->
->>>🟦Inheritance:
+>>>Inheritance:
      Inheritance is an OOP mechanism in which a child class inherits properties and methods from a parent class.
 
->>>>>>🟦Parent/Base Class:
+>>>>>>Parent/Base Class:
                     A parent class is a class whose properties and methods are inherited by another class.
 
->>>>>>>>>🟦Child/Derived Class:
+>>>>>>>>>Child/Derived Class:
                     A child class is a class that inherits properties and methods from a parent class.
 
 🔹When to Use Inheritance?
