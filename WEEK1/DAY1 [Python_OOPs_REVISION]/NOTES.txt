@@ -38,7 +38,7 @@ Child/Derived Class:
 
 🔹When to Use Inheritance??
 >Inheritance is useful when there is an "IS-A" relationship between two classes.
->>>>>>>>>>If you can logically form the sentence "X is a Y", then inheritance is appropriate.
+>>If you can logically form the sentence "X is a Y", then inheritance is appropriate.
               Examples:Student IS-A Person ✅
                        Dog IS-A Animal ✅
 
