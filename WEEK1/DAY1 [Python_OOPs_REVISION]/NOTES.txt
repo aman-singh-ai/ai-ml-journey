@@ -27,19 +27,24 @@ STATIC   → nothing → Utility
 
 
 <---------------------🔹🔹Inheritance ; [Parent & Child class]🔹🔹------------------->
->>>Inheritance:
+Inheritance:
      Inheritance is an OOP mechanism in which a child class inherits properties and methods from a parent class.
 
->>>>>>Parent/Base Class:
-                    A parent class is a class whose properties and methods are inherited by another class.
+Parent/Base Class:
+            A parent class is a class whose properties and methods are inherited by another class.
 
->>>>>>>>>Child/Derived Class:
-                    A child class is a class that inherits properties and methods from a parent class.
+Child/Derived Class:
+            A child class is a class that inherits properties and methods from a parent class.
 
-🔹When to Use Inheritance?
+🔹When to Use Inheritance??
 >>>>>>Inheritance is useful when there is an "IS-A" relationship between two classes.
 >>>>>>>>>>If you can logically form the sentence "X is a Y", then inheritance is appropriate.
               Examples:Student IS-A Person ✅
                        Dog IS-A Animal ✅
 
+ Main Benefits of Inheritance:
+ Code Reusability: Derived classes can automatically reuse code from the base class.
+ Reduced Redundancy: Eliminates duplicate code across multiple classes.
+ Easy Maintainability: Modifying common functionality in the parent class instantly updates all child classes.
+ Extensibility: Child classes can easily extend parent features by adding unique functionality.
 
