@@ -45,7 +45,7 @@ super():
 
 <---------------------------🔥 Important Difference 🔥--------------------------->
 
-                            #Inheritance
+                            #Inheritance🔹🔹
 
 What it does: 
      The child class reuses or inherits the existing functionality of the parent class.
@@ -60,7 +60,7 @@ Concept:
 
                ______________________________________________
 
-                          #Method Overriding
+                          #Method Overriding🔹🔹
 
 What it does:
      The child class changes or provides its own specific implementation for a method that already exists in the parent class.
@@ -72,5 +72,15 @@ Concept:
                                      ↓
                              Student.introduce()
 
-
+🧠 When to Use What?
+_______________________________________________________________________________________
+|               Situation                                     |      Use              |
+| ------------------------------------------------------------| --------------------- |
+| Want to reuse the functionality of an existing class        | **Inheritance**       |
+| Want to keep common functionality in the parent class       | **Inheritance**       |
+| Want to provide additional functionality to the child class | **Inheritance**       |
+| Want to change the behavior of a parent class method        | **Method Overriding** |
+| Need to use or execute the parent class constructor         | **`super()`**         |
+| Need to call the overridden method of the parent class      | **`super()`**         |
+---------------------------------------------------------------------------------------
 
