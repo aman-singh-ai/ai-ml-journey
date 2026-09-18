@@ -31,8 +31,13 @@ Inheritance:
      Inheritance is an OOP mechanism in which a child class inherits properties and methods from a parent class.
 
 Parent/Base Class:
-            A parent class is a class whose properties and methods are inherited by another class.
+           A parent class is a class whose properties and methods are inherited by another class.
 
 Child/Derived Class:
-            A child class is a class that inherits properties and methods from a parent class.
+           A child class is a class that inherits properties and methods from a parent class.
 
+Method Overriding:
+           is the process in which a child class provides its own implementation of a method already defined in its parent class.
+
+super():
+           is used to access methods and attributes of a parent class from a child class.
