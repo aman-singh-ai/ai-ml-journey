@@ -41,3 +41,36 @@ Method Overriding:
 
 super():
            is used to access methods and attributes of a parent class from a child class.
+
+
+<---------------------------🔥 Important Difference 🔥--------------------------->
+
+                            #Inheritance
+
+What it does: 
+     The child class reuses or inherits the existing functionality of the parent class.
+
+Concept:
+     It defines a relationship 
+     (e.g., A Student is a Person).
+          
+                              Person
+                                ↓
+                              Student
+
+               ______________________________________________
+
+                          #Method Overriding
+
+What it does:
+     The child class changes or provides its own specific implementation for a method that already exists in the parent class.
+Concept:
+     It changes how a specific action is performed 
+     (e.g., A Student introduces themselves differently than a general Person).
+                             
+                             Person.introduce()
+                                     ↓
+                             Student.introduce()
+
+
+
