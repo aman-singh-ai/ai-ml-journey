@@ -8,7 +8,7 @@ Instance    → Individual data
 Class       → Shared data
 
 
-<-----------------📊 Difference b/w instance,class and static method — Very Important ------------>
+<--------------📊 Difference b/w instance,class and static method — Very Important ---------->
 __________________________________________________________________________________
 | Feature              | Instance Method | Class Method   | Static Method        |
 | -------------------- | --------------- | -------------- | -------------------- |
@@ -26,7 +26,7 @@ CLASS    → cls  → Class
 STATIC   → nothing → Utility
 
 
-<---------------------🔹🔹Inheritance ; [Parent & Child class]🔹🔹------------------->
+<---------------------------------🔹🔹Inheritance ; [Parent & Child class]🔹🔹-------------------------------->
 Inheritance:
      Inheritance is an OOP mechanism in which a child class inherits properties and methods from a parent class.
 
@@ -45,7 +45,7 @@ super():
 
 <---------------------------🔥 Important Difference 🔥--------------------------->
 
-                            #Inheritance🔹🔹
+                            #Inheritance🔹
 
 What it does: 
      The child class reuses or inherits the existing functionality of the parent class.
@@ -60,7 +60,7 @@ Concept:
 
                ______________________________________________
 
-                          #Method Overriding🔹🔹
+                          #Method Overriding🔹
 
 What it does:
      The child class changes or provides its own specific implementation for a method that already exists in the parent class.
@@ -72,7 +72,8 @@ Concept:
                                      ↓
                              Student.introduce()
 
-🧠 When to Use What?
+
+<--------------------------🧠🧠 When to Use What?🧠🧠----------------------------------->
 _______________________________________________________________________________________
 |               Situation                                     |      Use              |
 | ------------------------------------------------------------| --------------------- |
@@ -83,4 +84,18 @@ ________________________________________________________________________________
 | Need to use or execute the parent class constructor         | **`super()`**         |
 | Need to call the overridden method of the parent class      | **`super()`**         |
 ---------------------------------------------------------------------------------------
+
+
+<-----------------------⚠️⚠️ Don't Confuse Overriding with Overloading ⚠️⚠️-------------------------->
+
+<--------------------------------Overriding---------------------------------------->
+Concept: Same method name in both Parent and Child classes, but the child class changes the behavior
+              Visual:Parent → show()
+                     Child  → show() (Modified version)
+                     
+<--------------------------------Overloading----------------------------------------->
+Concept: Same method name within the same class, but with different parameters or arguments.
+Note: Unlike Java or C++, traditional method overloading is not directly supported in Python.
+
+
 
