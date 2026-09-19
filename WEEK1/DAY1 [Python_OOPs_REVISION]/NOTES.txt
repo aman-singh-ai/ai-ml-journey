@@ -1,3 +1,11 @@
+<----------------------🔹 OPPs Concepts 🔹------------------------->
+* Class
+* Objects
+* Inheritance
+* Polymorphism
+* Abstraction
+* Encapsulation
+
 
 <--------------------- 🔹🔹One-line memory trick🔹🔹-------------->
 Class       → Blueprint
